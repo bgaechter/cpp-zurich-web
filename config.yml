@@ -1,4 +1,4 @@
-baseURL: "https://cpp.gaechter.cloud"
+baseURL: "https://www.cpp-zurich.ch"
 title: C++ User Group Zurich
 paginate: 5
 theme: PaperMod
@@ -47,6 +47,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
+
     description: "C++ User Group Zurich"
     author: ["Benny Gaechter"]
     # author: ["Me", "You"] # multiple authors
@@ -88,14 +89,16 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/bgaechter/cpp-zurich-web/"
+          url: "https://github.com/bgaechter/cpp-zurich-web"
         - name: twitch
           url: "https://www.twitch.tv/cppzurich"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UCCkoJ73n6ztlK4dzluvjQzQ"
         - name: Rss
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/bgaechter/cpp-zurich-web/"
+        URL: "https://github.com/bgaechter/cpp-zurich-web/tree/main"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -110,7 +113,7 @@ params:
 
     assets:
         disableHLJS: true
-    #     favicon: "<link / abs url>"
+        favicon: https://www.cpp-zurich.ch/favicon.png
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"
