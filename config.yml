@@ -1,4 +1,4 @@
-baseURL: "https://cpp.gaechter.cloud"
+baseURL: "https://cpp-zurich.ch"
 title: C++ User Group Zurich
 paginate: 5
 theme: PaperMod
@@ -110,7 +110,7 @@ params:
 
     assets:
         disableHLJS: true
-    #     favicon: "<link / abs url>"
+        favicon: https://www.cpp-zurich.ch/favicon.png
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"
