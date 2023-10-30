@@ -97,10 +97,10 @@ params:
         - name: Rss
           url: "index.xml"
 
-    editPost:
-        URL: "https://github.com/bgaechter/cpp-zurich-web/tree/main"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+    #editPost:
+        #URL: "https://github.com/bgaechter/cpp-zurich-web/tree/main"
+        #Text: "Suggest Changes" # edit text
+        #appendFilePath: true # to append file path to Edit link
 
     # label:
     #     text: "Home"
