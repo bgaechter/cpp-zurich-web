@@ -1,5 +1,5 @@
 ---
-title: "December Meetup @ Google"
+title: "07.12.2023 - December Meetup @ Google"
 summary: We have some exciting talks about optimizing Chrome, std::sort and Engineering Lessons learned at Google
 date: 2023-10-30
 weight: 2

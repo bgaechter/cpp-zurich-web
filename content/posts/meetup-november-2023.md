@@ -1,5 +1,5 @@
 ---
-title: "Save the date - November Meetup"
+title: "29.11.2023 - Save the date - November Meetup"
 summary: Save the date for our november meetup which will take place on 29.11.2023
 date: 2023-09-15
 weight: 2

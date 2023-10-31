@@ -1,5 +1,5 @@
 ---
-title: "A new OS and safer Build System - September Meetup"
+title: "13.09.2023 - A new OS and safer Build System - September Meetup"
 summary: A new OS and safer Build System - September Meetup
 date: 2023-09-13
 weight: 2
