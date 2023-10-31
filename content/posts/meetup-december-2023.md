@@ -1,6 +1,6 @@
 ---
 title: "December Meetup @ Google"
-summary: We have some exciting about optimizing Chrome, std::sort and Engineering Lessons learned at Google
+summary: We have some exciting talks about optimizing Chrome, std::sort and Engineering Lessons learned at Google
 date: 2023-10-30
 weight: 2
 aliases: ["/december-2023-meetup"]
