@@ -26,6 +26,12 @@ languages:
           series: series
         menu:
             main:
+                - name: Team
+                  url: team
+                  weight: 2
+                - name: Sponsors
+                  url: sponsors
+                  weight: 3
                 - name: Archive
                   url: archives
                   weight: 5
@@ -62,7 +68,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: true
-    ShowToc: true
+    ShowToc: false
     # comments: false
     images: ["papermod-cover.png"]
 
